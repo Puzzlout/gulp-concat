@@ -6,3 +6,4 @@ build
 components
 coverage
 *.swp
+package-lock.json

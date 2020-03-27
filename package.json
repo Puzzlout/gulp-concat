@@ -1,9 +1,9 @@
 {
-  "name": "gulp-concat",
+  "name": "gulp-concat-2020",
   "description": "Concatenates files",
-  "version": "2.6.1",
-  "repository": "gulp-community/gulp-concat",
-  "author": "Contra <yo@contra.io> (http://contra.io/)",
+  "version": "3.0.1",
+  "repository": "puzzlout/gulp-concat",
+  "author": "Puzzlout <puzzlout@gmail.com> (http://puzzlout.com/)",
   "files": [
     "index.js"
   ],
